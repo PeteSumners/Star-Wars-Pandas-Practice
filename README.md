@@ -1,3 +1,3 @@
 # Star-Wars-Pandas-Practice
 
-This is some Python Pandas practice I did with a survey about Star Wars.
+This is some of my practice using the Pandas library in Python. I used a survey about Star Wars movies for data.
